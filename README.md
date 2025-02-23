@@ -45,13 +45,13 @@ The project aims to provide insights into how the stock prices and revenue of th
 
 Below is the graph showing the historical stock price and revenue of **Tesla (TSLA)**. The data includes stock prices up until June 2021 and revenue data up until April 2021.
 
-![Tesla Plot]()
+![Tesla Plot](https://github.com/saf1Hckr/Tesla-and-GameStop-Stock-Revenue-Analyze-/blob/main/Tesla.png)
 
 ### GameStop Stock & Revenue Data
 
 Below is the graph showing the historical stock price and revenue of **GameStop (GME)**. The data includes stock prices up until June 2021 and revenue data up until April 2021.
 
-![GameStop Plot]()
+![GameStop Plot](https://github.com/saf1Hckr/Tesla-and-GameStop-Stock-Revenue-Analyze-/blob/main/GameStop.png)
 
 ## Conclusion
 
